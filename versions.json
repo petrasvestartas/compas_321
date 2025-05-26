@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Latest",
+    "version": "latest",
+    "url": "https://petrasvestartas.github.io/compas_321/latest/"
+  },
+  {
+    "name": "0.1.2 (stable)",
+    "version": "0.1.2",
+    "url": "https://petrasvestartas.github.io/compas_321/0.1.2/"
+  }
+]
